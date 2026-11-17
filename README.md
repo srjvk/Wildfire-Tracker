@@ -95,7 +95,3 @@ Wildfire-Tracker/
 ├── package.json
 └── vite.config.js
 ```
-
-## Security Note
-
-Do not commit a production Google Maps API key or private credentials to this repository. Restrict the key by HTTP referrer and API in the Google Cloud Console.
